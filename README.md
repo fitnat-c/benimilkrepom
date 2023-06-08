@@ -1,1 +1,1 @@
-# benim ilk repom
+# uzaktakı repomu aldım
